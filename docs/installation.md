@@ -25,15 +25,17 @@ Installation time mostly depends on the type of your storage, although other spe
 
 ## Download the Redistributable
 
-Head over to [virtualbox.org](virtualbox.org) and click the Download button.
+Head over to [virtualbox.org](https://www.virtualbox.org/) and click the Download button.
 
 ![VirtualBox welcome page](./assets/VB-download-01.png)
 
-The button is hard to miss, but alternatively, you can also click the Downloads navigation link on the left.
+The button is hard to miss, but alternatively, you can also click the Downloads(https://www.virtualbox.org/wiki/Downloads) navigation link on the left.
 
 > **Note**: The End-user docs link in the navigation may prove useful as you perfect your virtualization skills and tackle more complex tasks.
 
-The Downloads page offers versions of VirtualBox for different host operating systems. Since your computer runs Windows, click the link that says “Windows hosts”.
+The Downloads page offers versions of VirtualBox for different host operating systems. Since your computer runs Windows, click the link that says “**Windows hosts**”.
+
+![VirtualBox download page](./assets/VB-download-02.png)
 
 > **Warning**: It is a common mistake for beginners to download the wrong version of VirtualBox. Remember, it does not matter which guest OS you want to run. What matters is the operating system that is currently installed and running on your computer.
 
@@ -41,9 +43,16 @@ The Downloads page offers versions of VirtualBox for different host operating sy
 
 Once you click the “Windows hosts” link, the browser should prompt you for confirmation. An example is shown below.
 
+![File download dialog](./assets/VB-download-03.png)
+
 Depending on your browser, you may see the options to “Run” or “Save” the file. We recommend saving your file. This is useful because having the downloaded file will let you postpone the installation until the most convenient time.
 
 Depending on the settings of your browser, the downloaded file may be saved in the “Downloads” folder of your user, or the browser may prompt you to select the folder.
 
+![Save file dialog](./assets/VB-download-04.png)
+
 In the latter case, select the location that you will remember, so that accessing or deleting the file is easier in the future.
 
+## Install VirtualBox
+
+Although you may be used to installing programs on your computer, installation of VirtualBox involves steps that you may be unfamiliar with. Before you begin, please take at least a quick look at this section to learn what to expect.
