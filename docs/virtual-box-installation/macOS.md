@@ -17,7 +17,7 @@ nav_order: 2
 
 Head over to [virtualbox.org](https://www.virtualbox.org/) and click the Download button.
 
-![VirtualBox welcome page](./assets/VB-download-01.png)
+![VirtualBox welcome page](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-01.png)
 
 The button is hard to miss, but alternatively, you can also click the Downloads(https://www.virtualbox.org/wiki/Downloads) navigation link on the left.
 
@@ -25,7 +25,7 @@ The button is hard to miss, but alternatively, you can also click the Downloads(
 
 The Downloads page offers versions of VirtualBox for different host operating systems. Since your computer runs macOS, click the link that says “**OS X hosts**”.
 
-![VirtualBox download page](./assets/VB-download-02.png)
+![VirtualBox download page](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-02.png)
 
 > **Warning**: It is a common mistake for beginners to download the wrong OS version of VirtualBox. Remember, it does not matter which guest OS you want to run. What matters is the operating system that is currently installed and running on your computer.
 
@@ -33,7 +33,7 @@ The Downloads page offers versions of VirtualBox for different host operating sy
 
 Once you click the "OS X hosts” link, the browser should start downloading a disk image automatically. 
 
-![File download on Safari](./assets/VB-download-01-macOS.png)
+![File download on Safari](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-01-macOS.png)
 
 Depending on the settings of your browser, the downloaded file may be saved in the “Downloads” folder of your user. We recommend moving it to a location that you will remember, so that accessing or deleting the file is easier in the future.
 
@@ -43,24 +43,24 @@ Although you may be used to installing programs on your computer, installation o
 
 Head to your download file's location and double-click on the disk image to open it. It should prompt the following window.
 
-![VirtualBox installation disk image](./assets/VB-download-02-macOS.png)
+![VirtualBox installation disk image](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-02-macOS.png)
 
 First, double-click on the VirtualBox.pkg icon. The installation should start by asking for permission to check its compatibility. Click "Allow" to start the process.
 
-![Installation package check compatibility](./assets/VB-download-03-macOS.png)
+![Installation package check compatibility](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-03-macOS.png)
 
 > **Note**: The current version of VirtualBox is **not** compatible with M1 Macs/MacBooks. 
 
 If the check is successful, you should see "Introduction". Click "Continue". 
 
-![VirtualBox installation introduction](./assets/VB-download-04-macOS.png)
+![VirtualBox installation introduction](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-04-macOS.png)
 
 It should take you to the "Installation Type" step. Your installation type will be defaulted to "Standard Install". By clicking on "Customize", you can change it to "Custom Install". For now, you can ignore this option and continue with the standard installation. You can also choose which disk to install VirtualBox on by clicking "Change Install Location". When you are happy with the settings, click "Install" to continue.
 
-![VirtualBox installation type](./assets/VB-download-05-macOS.png)
+![VirtualBox installation type](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-05-macOS.png)
 
 The program should start installing VirtualBox on your computer. This process should take around a few seconds to a minute. If VirtualBox is successfully installed, it should show the following screen.
 
-![VirtualBox installation success](./assets/VB-download-06-macOS.png)
+![VirtualBox installation success](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-06-macOS.png)
 
 Congratulations! Now you are ready to [create a virtual machine in VirtualBox](create-vm).
