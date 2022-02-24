@@ -15,18 +15,18 @@ This section shows how to download an Ubuntu installation disk image and how to 
 
 > **Warning**: Please make sure to have at least 10-15 GB of free space on your system before you proceed. Operating system disk images range between 1.5 and 4.5 GB in size, and once installed, your new virtual machine will take additional 8 to 12 GB of disk space.
 
-1. Head to [ubuntu.com](https://ubuntu.com/).
+**Step 1**. Head to [ubuntu.com](https://ubuntu.com/). 
 
 ![ubuntu.com homepage](./assets/ubuntu-01.png)
 
-2. Navigate to the Download section.
+**Step 2**. Navigate to the [Download](https://ubuntu.com/#download) section. 
 
 ![ubuntu.com Download section](./assets/ubuntu-02.png)
 
-3. Under the Ubuntu Desktop heading, click one of the buttons with version numbers on them.
+**Step 3**. Under the Ubuntu Desktop heading, click one of the buttons with version numbers on them.
 
 > **Note**: Unless you have a good reason not to, we recommend to use the **LTS** (long-term support) version as it is considered more stable.
 
-4. Take note or find out where your browser saves downloaded files. You will need to know this location on your computer in the steps that follow.
+**Step 4**. Take note or find out where your browser saves downloaded files. You will need to know this location on your computer in the steps that follow.
 
 ![browser file download dialog](./assets/ubuntu-03.png)
