@@ -63,4 +63,8 @@ The program should start installing VirtualBox on your computer. This process sh
 
 ![VirtualBox installation success](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-06-macOS.png)
 
+When you click "Close", it should prompt you with the following message. You can choose to delete it to free your disk space, or keep it for future use. This choice does not affect your installed VirtualBox application.
+
+![VirtualBox installation disk image close](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-07-macOS.png)
+
 Congratulations! Now you are ready to [create a virtual machine in VirtualBox](create-vm).
