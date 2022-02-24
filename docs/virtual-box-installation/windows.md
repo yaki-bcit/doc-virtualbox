@@ -39,7 +39,7 @@ The Downloads page offers versions of VirtualBox for different host operating sy
 
 ![VirtualBox download page](./assets/VB-download-02.png)
 
-> **Warning**: It is a common mistake for beginners to download the wrong version of VirtualBox. Remember, it does not matter which guest OS you want to run. What matters is the operating system that is currently installed and running on your computer.
+> **Warning**: It is a common mistake for beginners to download the wrong OS version of VirtualBox. Remember, it does not matter which guest OS you want to run. What matters is the operating system that is currently installed and running on your computer.
 
 > **Note**:    The Downloads page links to other useful resources, such as the Extension Pack (more on it later) or the full VirtualBox manual.
 

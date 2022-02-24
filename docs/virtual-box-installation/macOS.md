@@ -35,25 +35,19 @@ The button is hard to miss, but alternatively, you can also click the Downloads(
 
 > **Note**: The End-user docs link in the navigation may prove useful as you perfect your virtualization skills and tackle more complex tasks.
 
-The Downloads page offers versions of VirtualBox for different host operating systems. Since your computer runs Windows, click the link that says “**Windows hosts**”.
+The Downloads page offers versions of VirtualBox for different host operating systems. Since your computer runs macOS, click the link that says “**OS X hosts**”.
 
 ![VirtualBox download page](./assets/VB-download-02.png)
 
-> **Warning**: It is a common mistake for beginners to download the wrong version of VirtualBox. Remember, it does not matter which guest OS you want to run. What matters is the operating system that is currently installed and running on your computer.
+> **Warning**: It is a common mistake for beginners to download the wrong OS version of VirtualBox. Remember, it does not matter which guest OS you want to run. What matters is the operating system that is currently installed and running on your computer.
 
 > **Note**:    The Downloads page links to other useful resources, such as the Extension Pack (more on it later) or the full VirtualBox manual.
 
-Once you click the “Windows hosts” link, the browser should prompt you for confirmation. An example is shown below.
+Once you click the "OS X hosts” link, the browser should start downloading automatically. 
 
-![File download dialog](./assets/VB-download-03.png)
+![File download on Safari](./assets/VB-download-01-macOS.png)
 
-Depending on your browser, you may see the options to “Run” or “Save” the file. We recommend saving your file. This is useful because having the downloaded file will let you postpone the installation until the most convenient time.
-
-Depending on the settings of your browser, the downloaded file may be saved in the “Downloads” folder of your user, or the browser may prompt you to select the folder.
-
-![Save file dialog](./assets/VB-download-04.png)
-
-In the latter case, select the location that you will remember, so that accessing or deleting the file is easier in the future.
+Depending on the settings of your browser, the downloaded file may be saved in the “Downloads” folder of your user. We recommend moving it to a location that you will remember, so that accessing or deleting the file is easier in the future.
 
 ## Install VirtualBox
 
