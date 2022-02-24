@@ -4,7 +4,7 @@ title: Create an Ubuntu Virtual Machine
 nav_order: 4
 ---
 
-# Create a Virtual Machine
+# Create an Ubuntu Virtual Machine
 {: .no_toc }
 
 This section shows how to download an Ubuntu installation disk image and how to add a new virtual machine in VirtualBox.
