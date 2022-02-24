@@ -55,4 +55,24 @@ In the latter case, select the location that you will remember, so that accessin
 
 ## Install VirtualBox
 
+> **Warning**: Choose installation time wisely. You don’t want any critical process running during installation. Close any unnecessary programs and files before you proceed.
+
+> **Warning**: Make sure that you run installation when your network connection is not critically important.
+
 Although you may be used to installing programs on your computer, installation of VirtualBox involves steps that you may be unfamiliar with. Before you begin, please take at least a quick look at this section to learn what to expect.
+
+One aspect that may be unusual to you is installation of a virtual network adapter. This happens automatically, but you will get a warning that your network, and internet, connection will be temporarily broken.
+
+![Installer network interface warning](./assets/VB-04.png)
+
+The above warning will be followed by a prompt to confirm installing virtual network adapter software.
+
+![Installer virtual network adapter dialog](./assets/VB-04.png)
+
+**Note**: If you do not allow the installer to add a virtual network adapter to your computer, your virtual machines will not be able to connect to the internet or your local network.
+
+At the end, the installer will invite you to start VirtualBox.
+
+![Installer final screen](./assets/VB-08.png)
+
+Now you are ready to [create a virtual machine in VirtualBox](docs/create-vm).
