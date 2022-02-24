@@ -24,11 +24,11 @@ These instructions will help you get started with VirtualBox, powerful virtualiz
 
 **Virtualization software** is a program that allows you to run extra operating systems, called guest systems or virtual machines, on top of the main operating system, called host operating system.
 
-> **Note**: While these instructions focus on VirtualBox specifically, other virtualization software from different vendors also exists. While there are important differences among such software, the core concepts will remain the same. Thus, once you are comfortable with VirtualBox, you may find other virtualization software, such as VMWare Workstation Player, easy to understand and use.
+> **Note**: While these instructions focus on VirtualBox specifically, other virtualization software from different vendors also exists. While there are important differences among such software, the core concepts remain the same. Thus, once you are comfortable with VirtualBox, you may find other virtualization software, such as VMWare Workstation Player, easy to install and use.
 
 A host operating system is what is installed for your computer and what you run your programs in every day.
 
-> **Note**: For the purposes of these instructions, we will assume that your host operating system is Windows 10.
+> **Note**: For the purposes of these instructions, we will assume that your host operating system is Windows 10 (for Windows) and macOS Monterey (for macOS).
 
 A guest operating system or a virtual machine is an operating system that is run with the help of special virtualization software while the host operating system is still running.
 
@@ -44,7 +44,7 @@ This guide is for users who have experience working with graphical interfaces, d
 
 First of all, virtualization is a fairly demanding task. To run your guest operating systems smoothly, your computer should have sufficient specifications. At the bare minimum, your computer must have:
 
-- A processor with at least 2 processing cores
+- [A processor with at least 2 processing cores](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b).
 - 4 GB of RAM
 - 10 GB of free disk space.
 
@@ -55,3 +55,4 @@ Arguably, some specialized guest operating systems can take advantage of even lo
 ## Notes and Warnings
 
 These instructions will include important warnings and additional useful information.
+
