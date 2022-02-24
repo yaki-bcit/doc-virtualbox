@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Installation
-nav_order: 3
+title: Installing VirtualBox on macOS
+parent: Installation
+nav_order: 2
+
 ---
 
 # Install VirtualBox
 {: .no_toc }
 
-In this section, you will learn how to get and install the latest version of VirtualBox for Windows.
+In this section, you will learn how to get and install the latest version of VirtualBox for macOS.
 
 The download size is approximately 100 MB, and depending on your internet connection speed, it may take from 1 to 10 minutes on most modern connections.
 
