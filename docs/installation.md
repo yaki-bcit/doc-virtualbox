@@ -75,4 +75,4 @@ At the end, the installer will invite you to start VirtualBox.
 
 ![Installer final screen](./assets/VB-08.png)
 
-Now you are ready to [create a virtual machine in VirtualBox](docs/create-vm).
+Now you are ready to [create a virtual machine in VirtualBox](create-vm).
