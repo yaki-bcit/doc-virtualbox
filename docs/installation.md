@@ -25,7 +25,9 @@ Installation time mostly depends on the type of your storage, although other spe
 
 ## Download the Redistributable
 
-Head over to virtualbox.org and click the Download button.
+Head over to [virtualbox.org](virtualbox.org) and click the Download button.
+
+![VirtualBox welcome page](/doc-virtualbox/assets/VB-download-01.png)
 
 The button is hard to miss, but alternatively, you can also click the Downloads navigation link on the left.
 
