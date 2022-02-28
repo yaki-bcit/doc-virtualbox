@@ -8,4 +8,4 @@ nav_order: 4
 # Create an Ubuntu Virtual Machine
 {: .no_toc }
 
-This section shows how to download an Ubuntu installation disk image and how to add a new virtual machine in VirtualBox.
+This section shows how to download an Ubuntu installation disk image, how to add a new virtual machine (VM) in VirtualBox and how to install Ubuntu inside the VM.
