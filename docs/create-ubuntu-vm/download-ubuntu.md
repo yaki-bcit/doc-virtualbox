@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Create an Ubuntu Virtual Machine
-has_children: true
-nav_order: 4
+title: Download Ubuntu Installation Disk Image
+parent: Create an Ubuntu Virtual Machine
+nav_order: 2
 ---
 
 # Create an Ubuntu Virtual Machine
