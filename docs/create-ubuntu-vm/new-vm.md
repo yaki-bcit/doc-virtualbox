@@ -2,7 +2,7 @@
 layout: default
 title: Add a New Virtual Machine in VirtualBox
 parent: Create an Ubuntu Virtual Machine
-nav_order: 1
+nav_order: 2
 
 ---
 ## Table of contents
