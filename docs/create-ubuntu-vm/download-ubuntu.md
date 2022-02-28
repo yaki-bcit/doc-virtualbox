@@ -18,11 +18,11 @@ This section shows how to download an Ubuntu installation disk image and how to 
 
 **Step 1**. Head to [ubuntu.com](https://ubuntu.com/). 
 
-![ubuntu.com homepage](./assets/ubuntu-01.png)
+![ubuntu.com homepage](../assets/ubuntu-01.png)
 
 **Step 2**. Navigate to the [Download](https://ubuntu.com/#download) section. 
 
-![ubuntu.com Download section](./assets/ubuntu-02.png)
+![ubuntu.com Download section](../assets/ubuntu-02.png)
 
 **Step 3**. Under the Ubuntu Desktop heading, click one of the buttons with version numbers on them.
 
