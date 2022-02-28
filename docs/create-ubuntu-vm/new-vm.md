@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Installing VirtualBox on Windows
+title: Add a New Virtual Machine in VirtualBox
 parent: Create an Ubuntu Virtual Machine
 nav_order: 1
 
