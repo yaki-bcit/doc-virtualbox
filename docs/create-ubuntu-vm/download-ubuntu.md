@@ -7,8 +7,6 @@ nav_order: 2
 
 # Download the Ubuntu Disk Image
 
-> **Warning**: Please make sure to have at least 10-15 GB of free space on your system before you proceed. Operating system disk images range between 1.5 and 4.5 GB in size, and once installed, your new virtual machine will take additional 8 to 12 GB of disk space.
-
 **Step 1**. Head to [ubuntu.com](https://ubuntu.com/). 
 
 ![ubuntu.com homepage](../assets/ubuntu-01.png)
