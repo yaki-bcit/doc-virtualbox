@@ -18,11 +18,15 @@ nav_order: 2
 > **Note**: These steps will not result in a working Ubuntu installation. To do this, you will need to install Ubuntu inside the virtual machine.
 
 **Step 1**. Open VirtualBox and find the “New” button in the main window. Alternatively, you can click “Machine > New…” in the top menu.
+
 **Step 2**. In the dialog window that appears you need to note or interact with four fields:
 
   a. Enter the name for your new virtual machine in the “Name” field. VirtualBox will try to detect what operating system you are planning to use and match the “Type” and “Version” fields based on your input.
+  
   b. Take note of or change the location of the “Machine Folder” field. This is the folder on your computer where the system files of your virtual machine will be saved.
+  
   c. Make sure that the “Type” field has “Linux” selected.
+  
   d. Make sure that the “Version” field has “Ubuntu (64-bit)” selected.
 
 **Step 3**. On the “Memory Size” screen, make sure that you allocate at least 1024 MB for your virtual machine. More is better, so see if you can safely increase the value to around 2048 MB or slightly more, but do not set the slider outside the green zone.
@@ -36,7 +40,10 @@ nav_order: 2
 **Step 6**. Select “Dynamically allocated” in “Storage on physical hard disk”.
 
 **Step 7**. In “File allocation and size”, 
+
   a. Note or change the location of the virtual machine system files;
+  
   b. Make sure to allocate at least 10 GB of disk storage for the virtual machine; more is better, but around 15 GB should be enough for most simple use cases;
+  
   c. Click Create if you are ready to proceed.
 
