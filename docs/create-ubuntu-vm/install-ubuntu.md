@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Add a New Virtual Machine in VirtualBox
-parent: Install Ubuntu in the Virtual Machine
+title: Install Ubuntu in the Virtual Machine
+parent: Create an Ubuntu Virtual Machine
 nav_order: 3
 
 ---
@@ -50,3 +50,13 @@ nav_order: 3
 **Step 5**. Change the resolution to “1024 × 768” and click the green “Apply” button in the top right corner. Click “Keep changes” in the dialog that appears.
 
 **Step 6**. Keep the Settings window open so that you can use it again in case the screen size resets and becomes too small during installation:
+
+  a. Click the minimize button in the top right corner. The minimized Settings window can be found on the taskbar at the bottom left of the screen.
+  
+**Step 7**. Open the orange “Install Ubuntu” icon on the desktop to start the installation wizard.
+
+**Step 8**. Continue in the wizard with English as the interface and keyboard language.
+
+**Step 9**. On the “Updates and other software” screen, select the type of installation. For Level 1 courses at BCIT, “Minimal installation” is sufficient, takes less time and disk storage.
+
+**Step 10**. Make sure that “Erase disk and install Ubuntu” is selected. Disregard the warning about program and file deletion. Since you are installing Ubuntu in a newly created virtual machine, the virtual hard drive should be empty anyway.
