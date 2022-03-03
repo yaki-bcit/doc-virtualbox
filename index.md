@@ -56,7 +56,7 @@ This guide is for users who have experience working with graphical interfaces, d
 
 First of all, virtualization is a fairly demanding task. To run your guest operating systems smoothly, your computer should have sufficient specifications. At the bare minimum, your computer must have:
 
-- [A processor with at least 2 processing cores](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b).
+- [A processor with at least 2 processing cores](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b)
 - 4 GB of RAM
 - 10 GB of free disk space.
 
@@ -75,3 +75,5 @@ You have already seen notes on this page. They contain extra details that are no
 In some places, you will see warnings, which point out critically important thinks you should do or know. **Don't skip warnings!** Warnings look like this:
 
 > **Warning**: Some text.
+
+Let's get started!
