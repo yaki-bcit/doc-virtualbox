@@ -7,6 +7,8 @@ nav_order: 2
 
 # Download the Ubuntu Disk Image
 
+These steps will guide to to download an Ubuntu LTS installation disk image.
+
 **Step 1**. Head to [ubuntu.com](https://ubuntu.com/). 
 
 ![ubuntu.com homepage](../assets/ubuntu-01.png)
@@ -24,3 +26,7 @@ nav_order: 2
 ![browser file download dialog](../assets/ubuntu-03.png)
 
 While the download is in progress, you can proceed to [creating a new virtual machine in VirtualBox](https://yaki-bcit.github.io/doc-virtualbox/docs/create-ubuntu-vm/new-vm.html).
+
+When the download completes, you will see a disk image file in your Download folder or another folder you chose for the download.
+
+![Ubuntu LTS ISO disk image file][../assets/iso.png]
