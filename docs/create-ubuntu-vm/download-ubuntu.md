@@ -21,4 +21,6 @@ nav_order: 2
 
 **Step 4**. Take note or find out where your browser saves downloaded files. You will need to know this location on your computer in the steps that follow.
 
-![browser file download dialog](./assets/ubuntu-03.png)
+![browser file download dialog](../assets/ubuntu-03.png)
+
+While the download is in progress, you can proceed to [creating a new virtual machine in VirtualBox](https://yaki-bcit.github.io/doc-virtualbox/docs/create-ubuntu-vm/new-vm.html).
