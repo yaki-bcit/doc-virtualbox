@@ -76,7 +76,9 @@ This section will help you download a large file, called installation disk image
 
 ![Ubuntu Installer - Where are you?](../assets/ubuntu-08.png)
 
-**Step 8**. Type your username and password. Make sure you write down, save or remember the password because you WILL need it later. Select "Log in automatically". Click "Continue".
+**Step 8**. Type your username and password for Ubuntu. **Make sure you write down, save or remember the password** because you WILL need it later. Select "Log in automatically". Click "Continue".
+
+> **Note**: Your Ubuntu username and password can be anything and do not have to match the ones on your actual computer.
 
 ![Ubuntu Installer - Who are you?](../assets/ubuntu-09.png)
 
