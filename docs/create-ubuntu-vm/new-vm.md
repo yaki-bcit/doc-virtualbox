@@ -45,6 +45,10 @@ nav_order: 2
 
   1. Note or change the location of the virtual machine system files;
   2. Make sure to allocate **at least 10** GB of disk storage for the virtual machine; more is better, but around 15 GB should be enough for most simple use cases;
-  3. Click **Create** if you are ready to proceed.
+  3. Click "**Create**" if you are ready to proceed.
   
 ![Create Virtual Machine Dialog - File Location and Size](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VM-10.png)
+
+After you click "Create, the dialog window will close and you will see the main window of VirtualBox with the newly created Ubuntu virtual machine in it, as shown below.
+
+![Ubuntu virtual machine running in VirtualBox on a Windows host](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VM-11-sh.png)
