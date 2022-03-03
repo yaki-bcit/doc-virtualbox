@@ -96,4 +96,4 @@ This section will help you download a large file, called installation disk image
 
 ![Virtual Machine restart - Press Enter](../assets/ubuntu-12.png)
 
-> **Note**: Technically, your virtual machine is already installed. However, once it restarts, you will need to take a few [first steps](https://yaki-bcit.github.io/doc-virtualbox/docs/create-ubuntu-vm/ubuntu-first-steps.html)
+> Technically, your virtual machine is now installed. However, once it restarts, you will need to take a few [first steps](https://yaki-bcit.github.io/doc-virtualbox/docs/create-ubuntu-vm/ubuntu-first-steps.html)
