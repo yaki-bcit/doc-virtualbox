@@ -11,7 +11,16 @@ nav_order: 1
 ## Introduction
 {: .no_toc }
 
+This document is for Level 1 Full-Stack Web Development students and other entry-level students at BCIT who need to use a linux operating system, but don't want to reinstall their main operating system or buy new dedicated hardware.
+
 These instructions will help you get started with VirtualBox, powerful virtualization software that lets you run various guest operating systems on your computer.
+
+This document will help you get started with an Ubuntu virtual machine:
+
+* You will download and install VirtualBox on your Windows or Mac computer or laptop
+* You will create a virtual machine for Ubuntu in VirtualBox
+* You will download and install Ubuntu inside your virtual machine
+* You will take the first steps to get started in Ubuntu.
 
 {: .fs-6 .fw-300 }
 
