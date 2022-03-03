@@ -8,7 +8,7 @@ nav_order: 4
 # First Steps in Ubuntu
 {: .no_toc }
 
-This section will help you make your first steps in Ubuntu towards some useful knowledge and a comfortable working environment. There is no set order for these steps, so look at the table of contents and click the sections you need.
+This section will help you make your first steps in Ubuntu towards some useful knowledge and a comfortable working environment. There is no set order for these steps, so use the table of contents to find the sections you need.
 
 ---
 
