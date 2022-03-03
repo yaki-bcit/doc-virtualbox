@@ -22,7 +22,7 @@ This document will help you get started with an Ubuntu virtual machine:
 * You will download and install Ubuntu inside your virtual machine
 * You will take the first steps to get started in Ubuntu.
 
-[Ubuntu virtual machine running in VirtualBox in Windows](.assets/screen.png)
+[Ubuntu virtual machine running in VirtualBox in Windows](./docs/.assets/screen.png)
 
 While these instructions focus on VirtualBox specifically, other virtualization software from different vendors also exists. While there are important differences among such software, the core concepts remain the same. Thus, once you are comfortable with VirtualBox, you may find other virtualization software, such as VMWare Workstation Player, easy to install and use.
 
