@@ -8,6 +8,8 @@ nav_order: 2
 
 # Add a New Virtual Machine in VirtualBox
 
+Follow these steps to add a new virtual machine in VirtualBox to host Ubuntu.
+
 > **Note**: The steps in this section are not enough to get a working Ubuntu installation. To do this, complete the steps below and then complete the steps to [install Ubuntu inside the virtual machine](https://yaki-bcit.github.io/doc-virtualbox/docs/create-ubuntu-vm/install-ubuntu.html).
 
 **Step 1**. Open VirtualBox and find the “New” button in the main window. Alternatively, you can click “Machine > New…” in the top menu.
