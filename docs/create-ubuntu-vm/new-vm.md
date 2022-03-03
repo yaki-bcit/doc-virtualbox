@@ -8,13 +8,13 @@ nav_order: 2
 
 # Add a New Virtual Machine in VirtualBox
 
-> **Note**: These steps will not result in a working Ubuntu installation. To do this, you will need to follow the steps to [install Ubuntu inside the virtual machine](https://yaki-bcit.github.io/doc-virtualbox/docs/create-ubuntu-vm/install-ubuntu.html).
+> **Note**: The steps in this section are not enough to get a working Ubuntu installation. To do this, complete the steps below and then complete the steps to [install Ubuntu inside the virtual machine](https://yaki-bcit.github.io/doc-virtualbox/docs/create-ubuntu-vm/install-ubuntu.html).
 
 **Step 1**. Open VirtualBox and find the “New” button in the main window. Alternatively, you can click “Machine > New…” in the top menu.
 
 ![VirtualBox Main Screen](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VM-01.png)
 
-**Step 2**. In the dialog window that appears you need to note or interact with four fields:
+**Step 2**. In the dialog window that appears, you need to note or interact with four fields:
 
   1. Enter the name for your new virtual machine in the “Name” field. VirtualBox will try to detect what operating system you are planning to use and match the “Type” and “Version” fields based on your input.
   2. Take note of or change the location of the “Machine Folder” field. This is the folder on your computer where the system files of your virtual machine will be saved.
