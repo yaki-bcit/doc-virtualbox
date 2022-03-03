@@ -55,8 +55,8 @@ nav_order: 2
 
   a. Note or change the location of the virtual machine system files;
   
-  b. Make sure to allocate at least 10 GB of disk storage for the virtual machine; more is better, but around 15 GB should be enough for most simple use cases;
+  b. Make sure to allocate **at least 10** GB of disk storage for the virtual machine; more is better, but around 15 GB should be enough for most simple use cases;
   
-  c. Click Create if you are ready to proceed.
+  c. Click **Create** if you are ready to proceed.
 
 ![Create Virtual Machine Dialog - File Location and Size](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VM-10.png)
