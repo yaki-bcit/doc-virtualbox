@@ -29,4 +29,4 @@ While the download is in progress, you can proceed to [creating a new virtual ma
 
 When the download completes, you will see a disk image file in your Download folder or another folder you chose for the download.
 
-![Ubuntu LTS ISO disk image file][../assets/iso.png]
+![Ubuntu LTS ISO disk image file](../assets/iso.png)
