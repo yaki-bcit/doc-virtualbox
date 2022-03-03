@@ -16,10 +16,10 @@ nav_order: 2
 
 **Step 2**. In the dialog window that appears you need to note or interact with four fields:
 
-  a. Enter the name for your new virtual machine in the “Name” field. VirtualBox will try to detect what operating system you are planning to use and match the “Type” and “Version” fields based on your input.
-  b. Take note of or change the location of the “Machine Folder” field. This is the folder on your computer where the system files of your virtual machine will be saved.
-  c. Make sure that the “Type” field has “Linux” selected.
-  d. Make sure that the “Version” field has “Ubuntu (64-bit)” selected.
+  1. Enter the name for your new virtual machine in the “Name” field. VirtualBox will try to detect what operating system you are planning to use and match the “Type” and “Version” fields based on your input.
+  2. Take note of or change the location of the “Machine Folder” field. This is the folder on your computer where the system files of your virtual machine will be saved.
+  3. Make sure that the “Type” field has “Linux” selected.
+  4. Make sure that the “Version” field has “Ubuntu (64-bit)” selected.
 
 ![Create Virtual Machine Dialog - Name and Operating System](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VM-03.png)
 
@@ -43,8 +43,8 @@ nav_order: 2
 
 **Step 7**. In “File allocation and size”, 
 
-  a. Note or change the location of the virtual machine system files;
-  b. Make sure to allocate **at least 10** GB of disk storage for the virtual machine; more is better, but around 15 GB should be enough for most simple use cases;
-  c. Click **Create** if you are ready to proceed.
+  1. Note or change the location of the virtual machine system files;
+  2. Make sure to allocate **at least 10** GB of disk storage for the virtual machine; more is better, but around 15 GB should be enough for most simple use cases;
+  3. Click **Create** if you are ready to proceed.
   
 ![Create Virtual Machine Dialog - File Location and Size](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VM-10.png)
