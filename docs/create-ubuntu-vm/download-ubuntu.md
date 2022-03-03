@@ -7,7 +7,7 @@ nav_order: 2
 
 # Download the Ubuntu Disk Image
 
-These steps will guide you to to download an Ubuntu LTS installation disk image.
+These steps will guide you to download an Ubuntu LTS installation disk image.
 
 **Step 1**. Head to [ubuntu.com](https://ubuntu.com/). 
 
