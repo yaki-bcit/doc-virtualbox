@@ -61,6 +61,6 @@ You have already seen notes on this page. They contain extra details that are no
 
 > **Note**: Some text.
 
-In some places, you will see warnings, which point out critically important thinks you should do or know. Don't miss them! Warnings look like this:
+In some places, you will see warnings, which point out critically important thinks you should do or know. **Don't skip warnings!** Warnings look like this:
 
 > **Warning**: Some text.
