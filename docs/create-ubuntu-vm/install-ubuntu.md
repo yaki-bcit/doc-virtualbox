@@ -26,7 +26,7 @@ This section will help you download a large file, called installation disk image
 
 **Step 2**. In the right part of the window, click the “[Optical Drive]” link and choose the Ubuntu installation disk image file that you [downloaded](https://yaki-bcit.github.io/doc-virtualbox/docs/create-ubuntu-vm/download-ubuntu.html).
 
-![VirtualBox Main Window - mouse hovered over Optical Drive](../assets/VM-13-1.png)
+![VirtualBox Main Window - mouse hovered over Optical Drive](../assets/VM-13-1-sh.png)
 
 > **Note**: If you decide to abort the installation process for any reason, VirtualBox may automatically eject the disk image from the virtual optical disk drive. In that case, simply select the disk image again when you run the installation later.
 
