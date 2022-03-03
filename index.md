@@ -22,6 +22,12 @@ This document will help you get started with an Ubuntu virtual machine:
 * You will download and install Ubuntu inside your virtual machine
 * You will take the first steps to get started in Ubuntu.
 
+While these instructions focus on VirtualBox specifically, other virtualization software from different vendors also exists. While there are important differences among such software, the core concepts remain the same. Thus, once you are comfortable with VirtualBox, you may find other virtualization software, such as VMWare Workstation Player, easy to install and use.
+
+For the purposes of these instructions, we will assume that your host operating system is Windows 10 (for Windows) or macOS Monterey (for macOS).
+
+
+
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -36,17 +42,11 @@ This document will help you get started with an Ubuntu virtual machine:
 
 **Virtualization software** is a program that allows you to run extra operating systems, called guest systems or virtual machines, on top of the main operating system, called host operating system.
 
-> **Note**: While these instructions focus on VirtualBox specifically, other virtualization software from different vendors also exists. While there are important differences among such software, the core concepts remain the same. Thus, once you are comfortable with VirtualBox, you may find other virtualization software, such as VMWare Workstation Player, easy to install and use.
-
 A host operating system is what is installed for your computer and what you run your programs in every day.
-
-> **Note**: For the purposes of these instructions, we will assume that your host operating system is Windows 10 (for Windows) and macOS Monterey (for macOS).
 
 A guest operating system or a virtual machine is an operating system that is run with the help of special virtualization software while the host operating system is still running.
 
 For example, if your host operating system is Windows 10, you can run another instance of Windows 10 as a guest system, or a guest linux-based operating system such as Ubuntu.
-
-> **Note**: These instructions include a tutorial for running Ubuntu (linux).
 
 ## Who This Guide is For
 
