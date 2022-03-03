@@ -6,6 +6,12 @@ nav_order: 3
 ---
 
 # Install Ubuntu Inside Your New Virtual Machine
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+---
 
 This section will help you download a large file, called installation disk image, from which you will install Ubuntu onto your empty virtual machine.
 
