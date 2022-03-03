@@ -3,6 +3,7 @@ layout: default
 title: Install Ubuntu in the Virtual Machine
 parent: Create an Ubuntu Virtual Machine
 nav_order: 3
+---
 
 # Install Ubuntu Inside Your New Virtual Machine
 
