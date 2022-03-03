@@ -54,5 +54,10 @@ Arguably, some specialized guest operating systems can take advantage of even lo
 
 ## Notes and Warnings
 
-These instructions will include important warnings and additional useful information.
+These instructions will include important warnings and additional useful information. You have already seen notes with extra info here. They look like this:
 
+> **Note**: Some text.
+
+Sometimes, you will also see warnings, which contain very important information. Don't miss them! They look like this:
+
+> **Warning**: Some text.
