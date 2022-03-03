@@ -71,3 +71,13 @@ It is important to restart or power off your virtual machine properly.
 **Step 2**. Select the option you want in the dialog.
 
 ![Ubuntu Power Off - Confirmation](../assets/ubuntu-power-off-02.png)
+
+## Learn More about Ubuntu
+
+If you want to learn more about Ubuntu, you may find these resources useful:
+
+1. [Official Ubuntu documentation](https://help.ubuntu.com/)
+2. [Ubuntu Tutorials](https://ubuntu.com/tutorials)
+3. [Questions and answers on Ubuntu](https://askubuntu.com/)
+
+We hope that our guide has helped you well. Check our Troubleshooting section if you have a problem!
