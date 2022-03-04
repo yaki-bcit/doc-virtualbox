@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VirtualBox Documentation
+title: Troubleshooting
 nav_order: 4
 ---
 
