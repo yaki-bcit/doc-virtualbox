@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Troubleshooting
+{: .no_toc }
 
 In this section, you'll find solutions to the most frequent difficulties that you may encounter. 
 
@@ -13,6 +14,8 @@ For Ubuntu-specific troubleshooting, consider referring to the the following res
 1. [Official Ubuntu documentation](https://help.ubuntu.com/)
 2. [Ubuntu Tutorials](https://ubuntu.com/tutorials)
 3. [Questions and answers on Ubuntu](https://askubuntu.com/)
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
