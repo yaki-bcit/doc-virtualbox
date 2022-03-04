@@ -12,7 +12,7 @@ In this section, you'll find solutions to the most frequent difficulties that yo
 For Ubuntu-specific troubleshooting, consider referring to the the following resources:
 
 1. [Official Ubuntu documentation](https://help.ubuntu.com/)
-2. [Ubuntu Tutorials](https://ubuntu.com/tutorials)
+2. [Ubuntu tutorials](https://ubuntu.com/tutorials)
 3. [Questions and answers on Ubuntu](https://askubuntu.com/)
 
 ---
