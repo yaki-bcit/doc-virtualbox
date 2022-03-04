@@ -35,7 +35,7 @@ This means that automatic mouse integration has been turned off for your virtual
 
 **Step 2**. Press the Host key on your keyboard.
 
-**Step 3**. To turn mouse integration on, find the mouse integration icon (![mouse integration indicator](./assets/mouse-integration-off.png)) in the bottom right corner of the virtual machine window, next to the Host key indicator. The indicator should turn blue (![mouse integration indicator](./assets/mouse-integration-on.png)).
+**Step 3**. To turn mouse integration on, find the mouse integration icon (![mouse integration indicator](./assets/mouse-integration-off.png)) in the bottom right corner of the virtual machine window, next to the Host key indicator. Right-click the indicator and click "Mouse Integration" in the menu. The indicator should turn blue (![mouse integration indicator](./assets/mouse-integration-on.png)).
 
 ## Ubuntu Installer starts up in the virtual machine after successful installation of Ubuntu
 
