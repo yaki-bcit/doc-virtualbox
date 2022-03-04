@@ -25,7 +25,7 @@ For Ubuntu-specific troubleshooting, consider referring to the the following res
 
 ---
 
-## Ubuntu Installer Starts Up in the Virtual Machine after Successful Ubuntu Installation
+## Ubuntu Installer starts up in the virtual machine after successful Ubuntu installation
 
 This means that the disk image is still inserted into the virtual drive.
 
@@ -33,7 +33,7 @@ This means that the disk image is still inserted into the virtual drive.
 
 ![VirtualBox Main Window - Remove disk image](./assets/VB-remove-disk-image.png)
 
-## Drag-and-Drop or Copy-Paste Doesn't Work between the Host and the Guest OS
+## Drag-and-drop or copy-paste doesn't work between the host and the guest OS
 
 These features may not be enabled by default, but can be easily set by the user.
 
