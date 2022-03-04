@@ -25,6 +25,18 @@ For Ubuntu-specific troubleshooting, consider referring to the the following res
 
 ---
 
+## The mouse pointer is stuck inside the virtual machine
+
+This means that automatic mouse integration has been turned off for your virtual machine.
+
+**Step 1**. Note the Host key in the right bottom corner of your running virtual machine window. If your host OS is Windows, the Host key is "Ctrl" on the right side of your keyboard. On MacOS hosts, the Host key is the "Command" key on the left. In the example below, the Host key is right "Ctrl".
+
+![VirtualBox Status Bar](./assets/VB-status-bar.png)
+
+**Step 2**. Press the Host key on your keyboard.
+
+**Step 3**. To turn mouse integration on, find the mouse integration icon (![mouse integration indicator](./assets/mouse-integration-off.png)) in the bottom right corner of the virtual machine window, next to the Host key indicator. The indicator should turn blue (![mouse integration indicator](./assets/mouse-integration-on.png)).
+
 ## Ubuntu Installer starts up in the virtual machine after successful Ubuntu installation
 
 This means that the disk image is still inserted into the virtual drive.
