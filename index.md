@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # VirtualBox Documentation
+{: .no_toc }
 
 ![VirtualBox Logo](https://wiki.robotz.com/images/e/ea/Virtualbox-logo.png)
 
