@@ -43,5 +43,22 @@ These features may not be enabled by default, but can be easily set by the user.
 
 **Step 2**. In the Settings window, select "General" in the left panel, then click the "Advanced" tab on the right. Select "Bidirectional" in the dropdowns for "Shared clipboard" and "Drag'n'Drop".
 
-![VirtualBox Main Window - Settings Button](./assets/VB-settings-advanced.png)
+![VirtualBox Settings - General - Advanced](./assets/VB-settings-advanced.png)
 
+## The guest OS says that the disk is full
+
+This means that the operating system inside your virtual machine has used up all of the disk space that you allocated for it.
+
+**Step 1**. Make sure your physical computer or laptop has sufficient empty space (at least 5GB). To free up extra space, you may need to follow the instructions for [Windows](https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-a18fae02-a0fa-8df9-9838-8970f9939de4#WindowsVersion=Windows_10) or [MacOS](https://support.apple.com/en-us/HT206996).
+
+**Step 2**. Make sure your virtual machine is turned off. In the main window of VirtualBox, select the virtual machine on the left and **note the name of the virtual drive** under Storage > Controller: SATA.
+
+![VirtualBox Main Window - Storage](./assets/VB-storage.png)
+
+**Step 3**. In the main window of VirtualBox, click "File > Virtual Media Manager..." in the top menu.
+
+![VirtualBox Main Window - Virtual Media Manager](./assets/VB-VMM.png)
+
+**Step 4**. In the "**Hard disks**" tab of the Virtual Media Manager window, select **the name of the virtual drive** used in your virtual machine. In the text field at the bottom right, type in the new, slightly bigger size of the virtual drive. In the example below, we increased the size from 10 to 12 GB.
+
+![VirtualBox - Virtual Media Manager](./assets/VB-VMM-window.png)
