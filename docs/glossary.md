@@ -5,9 +5,8 @@ nav_order: 3
 ---
 
 # Glossary
-This section explains important terminology 
+This section explains important terminology used in the guides
 
-```markdown
 | Term         | Definition         |
 |:-------------|:------------------|
 | Host operating system           | A software that is installed for your computer and that you run your programs on every day  |
@@ -16,4 +15,4 @@ This section explains important terminology
 | Disk Image | A copy of a storage device which represents the content exactly as it is on the original device |
 | .dmg | A file format of containers for apps on MacOS |
 | Wizard | A software that provides a graphical interface with steps that guide user to complete a task |
-```
+
