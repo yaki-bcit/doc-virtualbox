@@ -19,7 +19,7 @@ Head over to [virtualbox.org](https://www.virtualbox.org/) and click the Downloa
 
 ![VirtualBox welcome page](https://yaki-bcit.github.io/doc-virtualbox/docs/assets/VB-download-01.png)
 
-The button is hard to miss, but alternatively, you can also click the Downloads(https://www.virtualbox.org/wiki/Downloads) navigation link on the left.
+The button is hard to miss, but alternatively, you can also click the [Downloads](https://www.virtualbox.org/wiki/Downloads) navigation link on the left.
 
 > **Note**: The End-user docs link in the navigation may prove useful as you perfect your virtualization skills and tackle more complex tasks.
 
